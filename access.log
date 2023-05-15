@@ -1,0 +1,26 @@
+2023-05-16 01:00:16,772 - INFO - go / by GET request
+2023-05-16 01:00:18,618 - INFO - go /Users/get/ by GET request
+2023-05-16 01:00:21,027 - INFO - go / by GET request
+2023-05-16 01:00:21,672 - INFO - go /Categories/get/ by GET request
+2023-05-16 01:00:22,193 - INFO - go / by GET request
+2023-05-16 01:00:54,695 - INFO - go / by GET request
+2023-05-16 01:01:11,289 - INFO - go /Products/get/ by GET request
+2023-05-16 01:01:15,809 - INFO - return create form by GET request for path /products/create/
+2023-05-16 01:01:20,666 - INFO - return delete form by GET request for path /products/delete/
+2023-05-16 01:06:19,658 - INFO - go / by GET request
+2023-05-16 01:06:22,790 - INFO - go /Users/get/ by GET request
+2023-05-16 01:06:23,587 - INFO - go / by GET request
+2023-05-16 01:06:23,979 - INFO - go /Orders/get/ by GET request
+2023-05-16 01:06:24,507 - INFO - go / by GET request
+2023-05-16 01:06:24,874 - INFO - go /Products/get/ by GET request
+2023-05-16 01:06:25,540 - INFO - go / by GET request
+2023-05-16 01:06:26,004 - INFO - go /Categories/get/ by GET request
+2023-05-16 01:12:00,762 - INFO - go / by GET request
+2023-05-16 01:12:01,687 - INFO - go /Products/get/ by GET request
+2023-05-16 01:12:02,453 - INFO - go / by GET request
+2023-05-16 01:12:03,007 - INFO - go /Orders/get/ by GET request
+2023-05-16 01:12:03,663 - INFO - go / by GET request
+2023-05-16 01:12:04,125 - INFO - go /Categories/get/ by GET request
+2023-05-16 01:12:04,550 - INFO - go / by GET request
+2023-05-16 01:12:05,662 - INFO - go /Users/get/ by GET request
+2023-05-16 01:12:06,197 - INFO - go / by GET request
