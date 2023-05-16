@@ -44,10 +44,10 @@
 <body>
     <h2>Home</h2>
     <ul>
-        <li><a href="/Users/get/">Users</a></li>
-        <li><a href="/Products/get/">Products</a></li>
-        <li><a href="/Orders/get/">Orders</a></li>
-        <li><a href="/Categories/get/">Categories</a></li>
+        <li><a href="/users/get/">Users</a></li>
+        <li><a href="/products/get/">Products</a></li>
+        <li><a href="/orders/get/">Orders</a></li>
+        <li><a href="/categories/get/">Categories</a></li>
     </ul>
 </body>
 </html>

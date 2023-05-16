@@ -47,7 +47,7 @@
 <body>
     <h2>Edit product</h2>
 
-    <form action="/Products/edit/" method="post">
+    <form action="/products/edit/" method="post">
         <label for="id">ID:</label>
         <input name="id" type="text" />
 

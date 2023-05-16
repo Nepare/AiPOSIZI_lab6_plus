@@ -46,7 +46,7 @@
 </head>
 <body>
     <h2>Create orders</h2>
-    <form action="/Orders/create/" method="post">
+    <form action="/orders/create/" method="post">
         <label for="user_id">UserId:</label>
         <input name="user_id" type="text" />
 

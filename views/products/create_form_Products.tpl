@@ -47,7 +47,7 @@
 <body>
     <h2>Create products</h2>
 
-    <form action="/Products/create/" method="post">
+    <form action="/products/create/" method="post">
         <label for="name">Name:</label>
         <input name="name" type="text" />
 

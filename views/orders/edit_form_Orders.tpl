@@ -46,7 +46,7 @@
 </head>
 <body>
     <h2>Edit order</h2>
-    <form action="/Orders/edit/" method="post">
+    <form action="/orders/edit/" method="post">
         <label for="id">ID:</label>
         <input name="id" type="text" />
 

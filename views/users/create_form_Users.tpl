@@ -47,7 +47,7 @@
 </head>
 <body>
     <h2>Create user</h2>
-    <form action="/Users/create/" method="post">
+    <form action="/users/create/" method="post">
     <label for="name">Name:</label>
     <input name="name" type="text" />
 

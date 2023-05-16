@@ -14,6 +14,7 @@ install(SQLitePlugin(dbfile="db.sqlite3"))
 
 HOST = os.getenv("HOST")
 PORT = os.getenv("PORT")
+API_PORT = os.getenv("API_PORT")
 
 DEBUG = True if os.getenv("DEBUG") else False
 

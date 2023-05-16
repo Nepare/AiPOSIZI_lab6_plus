@@ -47,7 +47,7 @@
 <body>
     <h2>Create categories</h2>
 
-    <form action="/Categories/create/" method="post">
+    <form action="/categories/create/" method="post">
         <label for="name">Name:</label>
         <input name="name" type="text" />
 

@@ -61,9 +61,9 @@
 
     <table>
         <tbody>
-            % for data in data_list:
+            % for data in data_list.values():
                 <tr>
-                    % for x in data:
+                    % for x in data.values():
                         % if x != data["id"]:
                             <td>{{ x }}</td>
                         % end

@@ -49,7 +49,7 @@
 <body>
     <h2>Edit category</h2>
 
-    <form action="/Categories/edit/" method="post">
+    <form action="/categories/edit/" method="post">
         <label for="id">ID:</label>
         <input name="id" type="text" />
 

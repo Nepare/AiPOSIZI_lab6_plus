@@ -24,3 +24,171 @@
 2023-05-16 01:12:04,550 - INFO - go / by GET request
 2023-05-16 01:12:05,662 - INFO - go /Users/get/ by GET request
 2023-05-16 01:12:06,197 - INFO - go / by GET request
+2023-05-16 12:09:55,088 - INFO - go / by GET request
+2023-05-16 12:10:03,651 - INFO - go /Users/get/ by GET request
+2023-05-16 12:10:04,551 - INFO - go / by GET request
+2023-05-16 12:10:04,951 - INFO - go /Categories/get/ by GET request
+2023-05-16 12:10:05,447 - INFO - go / by GET request
+2023-05-16 12:10:05,993 - INFO - go /Orders/get/ by GET request
+2023-05-16 12:10:06,592 - INFO - go / by GET request
+2023-05-16 12:10:07,064 - INFO - go /Products/get/ by GET request
+2023-05-16 12:10:07,792 - INFO - go / by GET request
+2023-05-16 12:11:22,667 - INFO - go /Products/get/ by GET request
+2023-05-16 12:13:55,557 - INFO - go /Products/get/ by GET request
+2023-05-16 12:13:57,247 - INFO - go / by GET request
+2023-05-16 12:13:58,528 - INFO - go /users/get/ by GET request
+2023-05-16 12:13:59,479 - INFO - go / by GET request
+2023-05-16 12:13:59,872 - INFO - go /categories/get/ by GET request
+2023-05-16 12:14:00,327 - INFO - go / by GET request
+2023-05-16 12:14:00,775 - INFO - go /orders/get/ by GET request
+2023-05-16 12:14:01,337 - INFO - go / by GET request
+2023-05-16 12:14:01,744 - INFO - go /products/get/ by GET request
+2023-05-16 12:14:02,977 - INFO - go / by GET request
+2023-05-16 12:14:04,160 - INFO - go /products/get/ by GET request
+2023-05-16 12:14:04,736 - INFO - return create form by GET request for path /products/create/
+2023-05-16 12:14:23,506 - INFO - read form data by POST request for path /products/create/
+2023-05-16 12:14:23,705 - INFO - redirect to /products/get/ path after creating object
+2023-05-16 12:14:23,807 - INFO - go /products/get/ by GET request
+2023-05-16 12:14:26,870 - INFO - go / by GET request
+2023-05-16 12:14:28,440 - INFO - go /products/get/ by GET request
+2023-05-16 12:14:29,352 - INFO - go / by GET request
+2023-05-16 12:14:30,288 - INFO - go /categories/get/ by GET request
+2023-05-16 12:14:30,937 - INFO - return edit form by GET request for path /categories/edit/
+2023-05-16 12:19:20,450 - INFO - go / by GET request
+2023-05-16 12:19:33,896 - INFO - go / by GET request
+2023-05-16 12:19:51,676 - INFO - go / by GET request
+2023-05-16 12:19:52,721 - INFO - go /users/get/ by GET request
+2023-05-16 12:19:53,471 - INFO - go / by GET request
+2023-05-16 12:31:14,208 - INFO - go /products/get/ by GET request
+2023-05-16 12:31:46,356 - INFO - go / by GET request
+2023-05-16 12:31:47,637 - INFO - go /products/get/ by GET request
+2023-05-16 12:31:57,565 - INFO - go / by GET request
+2023-05-16 12:31:58,216 - INFO - go /products/get/ by GET request
+2023-05-16 12:32:11,813 - INFO - go / by GET request
+2023-05-16 12:32:12,793 - INFO - go /products/get/ by GET request
+2023-05-16 12:32:26,845 - INFO - go / by GET request
+2023-05-16 12:32:27,887 - INFO - go /products/get/ by GET request
+2023-05-16 12:33:05,387 - INFO - go /products/get/ by GET request
+2023-05-16 12:54:16,429 - INFO - go /categories/get/ by GET request
+2023-05-16 13:04:58,912 - INFO - go / by GET request
+2023-05-16 13:23:12,712 - INFO - go / by GET request
+2023-05-16 13:23:16,128 - INFO - go /products/get/ by GET request
+2023-05-16 13:23:26,570 - INFO - go /products/get/ by GET request
+2023-05-16 13:23:31,127 - INFO - go /products/get/ by GET request
+2023-05-16 13:24:01,972 - INFO - go /products/get/ by GET request
+2023-05-16 13:25:12,811 - INFO - go /products/get/ by GET request
+2023-05-16 13:25:18,318 - INFO - go /products/get/ by GET request
+2023-05-16 13:25:45,951 - INFO - go /products/get/ by GET request
+2023-05-16 13:25:51,483 - INFO - go /products/get/ by GET request
+2023-05-16 13:27:52,836 - INFO - go /products/get/ by GET request
+2023-05-16 13:27:53,394 - INFO - go /products/get/ by GET request
+2023-05-16 13:28:06,558 - INFO - go /products/get/ by GET request
+2023-05-16 13:30:02,354 - INFO - go /products/get/ by GET request
+2023-05-16 13:30:56,573 - INFO - go /products/get/ by GET request
+2023-05-16 13:31:18,995 - INFO - go /products/get/ by GET request
+2023-05-16 13:32:10,409 - INFO - go /products/get/ by GET request
+2023-05-16 13:32:28,605 - INFO - go /products/get/ by GET request
+2023-05-16 13:33:41,547 - INFO - go /products/get/ by GET request
+2023-05-16 13:33:48,873 - INFO - go / by GET request
+2023-05-16 13:33:49,648 - INFO - go /users/get/ by GET request
+2023-05-16 13:33:53,345 - INFO - go / by GET request
+2023-05-16 13:34:17,280 - INFO - go /products/get/ by GET request
+2023-05-16 13:34:21,464 - INFO - go / by GET request
+2023-05-16 13:34:22,232 - INFO - go /categories/get/ by GET request
+2023-05-16 13:34:25,703 - INFO - go / by GET request
+2023-05-16 13:34:26,224 - INFO - go /users/get/ by GET request
+2023-05-16 13:34:31,272 - INFO - go / by GET request
+2023-05-16 13:34:31,992 - INFO - go /orders/get/ by GET request
+2023-05-16 13:34:34,855 - INFO - go / by GET request
+2023-05-16 13:35:31,450 - INFO - go /products/get/ by GET request
+2023-05-16 13:35:56,232 - INFO - go /users/get/ by GET request
+2023-05-16 13:35:56,236 - INFO - go / by GET request
+2023-05-16 13:35:57,968 - INFO - go /orders/get/ by GET request
+2023-05-16 13:36:55,099 - INFO - go /users/get/ by GET request
+2023-05-16 13:36:55,346 - INFO - go /users/get/ by GET request
+2023-05-16 13:36:56,408 - INFO - go / by GET request
+2023-05-16 13:36:56,881 - INFO - go /orders/get/ by GET request
+2023-05-16 13:36:57,383 - INFO - go / by GET request
+2023-05-16 13:36:58,072 - INFO - go /products/get/ by GET request
+2023-05-16 13:36:59,231 - INFO - go / by GET request
+2023-05-16 13:36:59,759 - INFO - go /categories/get/ by GET request
+2023-05-16 13:37:00,392 - INFO - go / by GET request
+2023-05-16 13:37:07,537 - INFO - go /products/get/ by GET request
+2023-05-16 13:37:10,992 - INFO - go / by GET request
+2023-05-16 17:25:54,763 - INFO - go / by GET request
+2023-05-16 17:25:57,423 - INFO - go /categories/get/ by GET request
+2023-05-16 17:26:28,230 - INFO - go / by GET request
+2023-05-16 17:26:30,674 - INFO - go /products/get/ by GET request
+2023-05-16 17:26:33,017 - INFO - go / by GET request
+2023-05-16 17:26:33,893 - INFO - go /orders/get/ by GET request
+2023-05-16 17:26:34,753 - INFO - go / by GET request
+2023-05-16 17:26:35,468 - INFO - go /categories/get/ by GET request
+2023-05-16 17:26:36,095 - INFO - go / by GET request
+2023-05-16 17:27:32,837 - INFO - go /products/get/ by GET request
+2023-05-16 17:27:40,783 - INFO - go / by GET request
+2023-05-16 17:27:41,944 - INFO - go /categories/get/ by GET request
+2023-05-16 17:27:44,134 - INFO - go / by GET request
+2023-05-16 17:48:58,642 - INFO - go /products/get/ by GET request
+2023-05-16 17:49:04,473 - INFO - return create form by GET request for path /products/create/
+2023-05-16 17:49:13,371 - INFO - read form data by POST request for path /products/create/
+2023-05-16 17:49:15,429 - INFO - redirect to /products/get/ path after creating object
+2023-05-16 17:49:15,443 - INFO - go /products/get/ by GET request
+2023-05-16 17:49:52,479 - INFO - go /products/get/ by GET request
+2023-05-16 17:49:57,977 - INFO - return create form by GET request for path /products/create/
+2023-05-16 17:50:57,297 - INFO - read form data by POST request for path /products/create/
+2023-05-16 17:50:59,342 - INFO - redirect to /products/get/ path after creating object
+2023-05-16 17:50:59,357 - INFO - go /products/get/ by GET request
+2023-05-16 17:52:20,434 - INFO - return create form by GET request for path /products/create/
+2023-05-16 17:52:24,677 - INFO - read form data by POST request for path /products/create/
+2023-05-16 17:52:27,140 - INFO - redirect to /products/get/ path after creating object
+2023-05-16 17:52:27,157 - INFO - go /products/get/ by GET request
+2023-05-16 17:57:18,850 - INFO - go /products/get/ by GET request
+2023-05-16 18:00:52,442 - INFO - go / by GET request
+2023-05-16 18:00:54,890 - INFO - go /products/get/ by GET request
+2023-05-16 18:01:02,783 - INFO - go /users/get/ by GET request
+2023-05-16 18:01:43,822 - INFO - go /users/get/ by GET request
+2023-05-16 18:02:34,612 - INFO - go /users/get/ by GET request
+2023-05-16 18:02:51,503 - INFO - return create form by GET request for path /users/create/
+2023-05-16 18:02:55,576 - INFO - read form data by POST request for path /users/create/
+2023-05-16 18:02:57,628 - INFO - redirect to /users/get/ path after creating object
+2023-05-16 18:02:57,642 - INFO - go /users/get/ by GET request
+2023-05-16 18:06:55,147 - INFO - return create form by GET request for path /users/create/
+2023-05-16 18:06:58,695 - INFO - read form data by POST request for path /users/create/
+2023-05-16 18:07:00,732 - INFO - redirect to /users/get/ path after creating object
+2023-05-16 18:07:00,741 - INFO - go /users/get/ by GET request
+2023-05-16 18:10:20,919 - INFO - go / by GET request
+2023-05-16 18:10:22,126 - INFO - go /categories/get/ by GET request
+2023-05-16 18:10:27,673 - INFO - go / by GET request
+2023-05-16 18:10:28,628 - INFO - go /users/get/ by GET request
+2023-05-16 18:10:59,048 - INFO - return create form by GET request for path /users/create/
+2023-05-16 18:13:35,504 - INFO - return create form by GET request for path /users/create/
+2023-05-16 18:13:38,557 - INFO - return create form by GET request for path /users/create/
+2023-05-16 18:14:01,567 - INFO - read form data by POST request for path /users/create/
+2023-05-16 18:14:03,803 - INFO - redirect to /users/get/ path after creating object
+2023-05-16 18:14:03,820 - INFO - go /users/get/ by GET request
+2023-05-16 18:15:03,928 - INFO - return edit form by GET request for path /users/edit/
+2023-05-16 18:21:37,586 - INFO - return edit form by GET request for path /users/edit/
+2023-05-16 18:21:49,818 - INFO - read form data by POST request for path /users/edit/
+2023-05-16 18:21:51,901 - INFO - redirect to /users/get/ path after editing object
+2023-05-16 18:21:51,915 - INFO - go /users/get/ by GET request
+2023-05-16 18:26:19,331 - INFO - return edit form by GET request for path /users/edit/
+2023-05-16 18:26:27,047 - INFO - read form data by POST request for path /users/edit/
+2023-05-16 18:26:29,096 - INFO - redirect to /users/get/ path after editing object
+2023-05-16 18:26:29,104 - INFO - go /users/get/ by GET request
+2023-05-16 18:29:46,045 - INFO - go / by GET request
+2023-05-16 18:29:47,402 - INFO - go /products/get/ by GET request
+2023-05-16 18:29:51,610 - INFO - go / by GET request
+2023-05-16 18:29:52,703 - INFO - go /users/get/ by GET request
+2023-05-16 18:30:24,770 - INFO - return edit form by GET request for path /users/edit/
+2023-05-16 18:30:31,768 - INFO - read form data by POST request for path /users/edit/
+2023-05-16 18:30:34,002 - INFO - redirect to /users/get/ path after editing object
+2023-05-16 18:30:34,018 - INFO - go /users/get/ by GET request
+2023-05-16 18:36:18,941 - INFO - go / by GET request
+2023-05-16 18:36:20,627 - INFO - go /users/get/ by GET request
+2023-05-16 18:36:26,449 - INFO - go / by GET request
+2023-05-16 18:36:27,846 - INFO - go /products/get/ by GET request
+2023-05-16 18:36:37,862 - INFO - return delete form by GET request for path /products/delete/
+2023-05-16 18:36:42,054 - INFO - read form data by POST request for path /products/delete/
+2023-05-16 18:36:44,270 - INFO - redirect to /products/get/ path after deleting object
+2023-05-16 18:36:44,287 - INFO - go /products/get/ by GET request
+2023-05-16 18:36:57,327 - INFO - go / by GET request

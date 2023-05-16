@@ -47,7 +47,7 @@
 </head>
 <body>
     <h2>Edit user</h2>
-    <form action="/Users/edit/" method="post">
+    <form action="/users/edit/" method="post">
         <label for="id">ID:</label>
         <input name="id" type="text" />
 
